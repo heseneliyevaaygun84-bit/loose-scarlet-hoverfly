@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "loose-scarlet-hoverfly",
+    "slug": "loose-scarlet-hoverfly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.loosescarlethoverfly" },
+    "scheme": "loosescarlethoverfly"
+  }
+}
